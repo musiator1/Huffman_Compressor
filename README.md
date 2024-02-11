@@ -1,7 +1,7 @@
 # Huffman_Compressor
 ## 1. Usage instructions.
 ### You need to know this before using:
-* You can only use this application by the aid of bash shell and path to a ".jar" file is: Huffman_Compressor/out/artifacts/HuffmanCompressor_jar/HuffmanCompressor.jar 
+* You can only use this application by the aid of bash shell and path to a ".jar" file is: HuffmanCompressor/out/artifacts/HuffmanCompressor_jar/HuffmanCompressor.jar 
 * To use this software you need to have installed Java version 17 or higher. You can download it [here](https://www.java.com/pl/download/manual.jsp).
 * You can compress and decompress without a loss all types of binary files, but big files (> 1GB) can take some time to compress/decompress.
 * Software was tested on Linux and Windows and it is not guaranteed that it will work on other OS.
